@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+crewai-tools = "*"
+langchain = "*"
+langchain-groq = "*"
+chromadb = "*"
+sentence-transformers = "*"
+tiktoken = "*"
+python-dotenv = "*"
+streamlit = "*"
+plotly = "*"
+pandas = "*"
+tavily-python = "*"
+crewai = {extras = ["google-genai"], version = "*"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
