@@ -160,6 +160,12 @@ ai-market-intelligence/
 | Pipeline not updating | Refresh browser after run |
 
 ---
+## 📺 Project Demo walkthrough
+Click the image below to watch the full project execution on Google Drive:
+
+[![Watch the Demo](output/Thumbnail1.PNG)](https://drive.google.com/file/d/1Jb8Vwm8EGCQtRToHIuTnaxrKllVq6RjL/view?usp=sharing)
+
+
 
 ## 📄 License
 
