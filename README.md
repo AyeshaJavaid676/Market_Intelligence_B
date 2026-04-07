@@ -58,7 +58,7 @@ Your AI team of **3 specialized agents** works together to deliver market intell
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-market-intelligence.git
+git clone https://github.com/AyeshaJavaid676/Market_Intelligence_B.git
 cd ai-market-intelligence
 ```
 
@@ -184,6 +184,6 @@ MIT
 
 <div align="center">
 
-**Built with ❤️ using CrewAI + Groq | 3-Agent System**
+**Built with CrewAI + Groq | 3-Agent System**
 
 </div>
